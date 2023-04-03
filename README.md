@@ -1,16 +1,39 @@
-### Hi there 👋
+![Header image](https://thumbs.gfycat.com/BetterFalseKid.webp)
 
-<!--
-**Bunyamin-35/Bunyamin-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm Bünyamin, a junior frontend developer based in Izmir,Turkey. I'm passionate about learning new technologies, solving problems and building things that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me 🙋‍♀️
+
+- 🎓 I have a bachelor's degree in c science from University of Washington
+- 🌱 I'm currently learning JavaScript and Reacj.js
+- 🎨 I love designing and developing user interfaces with CSS and JavaScript
+- 📚 I enjoy reading and watching about future technologies and artificial intelligence
+
+## Tech stack 💻
+
+Here are some of the technologies and tools that I work with:
+
+| Frontend      | Backend       | Database      | Tools         |
+| ------------- | ------------- | ------------- | ------------- |
+| HTML          |               |               | Git           |
+| CSS           |               |               | VS Code       |
+| JavaScript    |               |               | Netlify       |
+| React         |               |               |               |
+|               |               |               |               |
+
+## Stats 📊
+
+![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bunyamin-35&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunyamin-35&layout=compact&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=Bunyamin-35&color=green)
+
+## Contact me 📫
+
+You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/b%C3%BCnyamin-bulut-b9b4a6253/)
+- [Email](mailto:bunyaminbulut.ce@gmail.com)
